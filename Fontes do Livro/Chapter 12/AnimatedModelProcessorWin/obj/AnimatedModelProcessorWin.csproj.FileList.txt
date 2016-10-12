@@ -1,0 +1,7 @@
+obj\x86\Debug\ResolveAssemblyReference.cache
+bin\x86\Debug\AnimatedModelProcessorWin.dll
+bin\x86\Debug\AnimatedModelProcessorWin.pdb
+bin\x86\Debug\AnimatedModelContentWin.dll
+bin\x86\Debug\AnimatedModelContentWin.pdb
+obj\x86\Debug\AnimatedModelProcessorWin.dll
+obj\x86\Debug\AnimatedModelProcessorWin.pdb

@@ -1,0 +1,8 @@
+bin\x86\Debug\XNADemo 2.0 Demo - Net.exe
+bin\x86\Debug\XNADemo 2.0 Demo - Net.pdb
+obj\x86\Debug\ResolveAssemblyReference.cache
+obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+obj\x86\Debug\XNADemo_2.__Demo___Net.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+obj\x86\Debug\XNADemo 2.0 Demo - Net.exe
+obj\x86\Debug\XNADemo 2.0 Demo - Net.pdb
+bin\x86\Debug\Content\Arial.xnb

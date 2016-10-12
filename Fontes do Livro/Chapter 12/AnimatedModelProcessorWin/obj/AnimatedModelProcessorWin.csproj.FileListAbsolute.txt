@@ -1,0 +1,7 @@
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\AnimatedModelProcessorWin\bin\x86\Debug\AnimatedModelProcessorWin.dll
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\AnimatedModelProcessorWin\bin\x86\Debug\AnimatedModelProcessorWin.pdb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\AnimatedModelProcessorWin\bin\x86\Debug\AnimatedModelContentWin.dll
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\AnimatedModelProcessorWin\bin\x86\Debug\AnimatedModelContentWin.pdb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\AnimatedModelProcessorWin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\AnimatedModelProcessorWin\obj\x86\Debug\AnimatedModelProcessorWin.dll
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\AnimatedModelProcessorWin\obj\x86\Debug\AnimatedModelProcessorWin.pdb

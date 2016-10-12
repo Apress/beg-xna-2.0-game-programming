@@ -1,0 +1,15 @@
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 10\TerrainEngine\bin\x86\Debug\Content\Effects\Terrain.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 10\TerrainEngine\bin\x86\Debug\Content\Textures\alphaMap.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 10\TerrainEngine\bin\x86\Debug\Content\Textures\rockbump.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 10\TerrainEngine\bin\x86\Debug\Content\Textures\Terrain1.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 10\TerrainEngine\bin\x86\Debug\Content\Textures\Terrain2.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 10\TerrainEngine\bin\x86\Debug\Content\Textures\Terrain3.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 10\TerrainEngine\bin\x86\Debug\Content\Textures\Terrain4.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 10\TerrainEngine\bin\x86\Debug\Content\Terrains\Terrain1.raw
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 10\TerrainEngine\bin\x86\Debug\TerrainEngine.exe
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 10\TerrainEngine\bin\x86\Debug\TerrainEngine.pdb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 10\TerrainEngine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 10\TerrainEngine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 10\TerrainEngine\obj\x86\Debug\TerrainEngine.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 10\TerrainEngine\obj\x86\Debug\TerrainEngine.exe
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 10\TerrainEngine\obj\x86\Debug\TerrainEngine.pdb

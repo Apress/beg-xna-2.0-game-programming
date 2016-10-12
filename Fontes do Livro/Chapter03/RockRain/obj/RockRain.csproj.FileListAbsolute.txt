@@ -1,0 +1,13 @@
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain\RockRain\bin\x86\Debug\Content\font.xnb
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain\RockRain\bin\x86\Debug\Content\SpaceBackground.xnb
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain\RockRain\bin\x86\Debug\Content\RockRain.xnb
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain\RockRain\bin\x86\Debug\Content\audio.xgs
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain\RockRain\bin\x86\Debug\Content\Wave Bank.xwb
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain\RockRain\bin\x86\Debug\Content\Sound Bank.xsb
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain\RockRain\bin\x86\Debug\RockRain.exe
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain\RockRain\bin\x86\Debug\RockRain.pdb
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain\RockRain\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain\RockRain\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain\RockRain\obj\x86\Debug\RockRain.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain\RockRain\obj\x86\Debug\RockRain.exe
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain\RockRain\obj\x86\Debug\RockRain.pdb

@@ -1,0 +1,11 @@
+obj\x86\Debug\ResolveAssemblyReference.cache
+obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+obj\x86\Debug\XNA_2.__Demo_4___Sound.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+bin\x86\Debug\Content\xna_thumbnail.xnb
+bin\x86\Debug\Content\MySounds.xgs
+bin\x86\Debug\Content\Wave Bank.xwb
+bin\x86\Debug\Content\Sound Bank.xsb
+bin\x86\Debug\XNA 2.0 Demo 4 - Sound.exe
+bin\x86\Debug\XNA 2.0 Demo 4 - Sound.pdb
+obj\x86\Debug\XNA 2.0 Demo 4 - Sound.exe
+obj\x86\Debug\XNA 2.0 Demo 4 - Sound.pdb

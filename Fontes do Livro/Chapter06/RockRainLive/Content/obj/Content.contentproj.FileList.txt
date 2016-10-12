@@ -1,0 +1,4 @@
+obj\x86\Debug\ResolveAssemblyReference.cache
+obj\x86\Debug\audio.xml
+obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+obj\Xbox 360\Debug\audio.xml

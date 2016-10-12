@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>xna_thumbnail.png</Source>
+      <Name>xna_thumbnail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TEMP\XNA 2.0 Demo 4 - Sound\XNA 2.0 Demo 4 - Sound\bin\x86\Debug\Content\xna_thumbnail.xnb</Output>
+      <Time>2007-12-19T11:19:32.200611-02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <RootDirectory>C:\TEMP\XNA 2.0 Demo 4 - Sound\XNA 2.0 Demo 4 - Sound\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\TEMP\XNA 2.0 Demo 4 - Sound\XNA 2.0 Demo 4 - Sound\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\TEMP\XNA 2.0 Demo 4 - Sound\XNA 2.0 Demo 4 - Sound\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\TEMP\XNA 2.0 Demo 4 - Sound\XNA 2.0 Demo 4 - Sound\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>c:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2007-11-28T13:08:00-02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2007-11-28T13:08:42-02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2007-11-28T13:08:30-02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2007-11-28T13:07:44-02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\2.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2007-12-17T09:54:06.7339772-02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

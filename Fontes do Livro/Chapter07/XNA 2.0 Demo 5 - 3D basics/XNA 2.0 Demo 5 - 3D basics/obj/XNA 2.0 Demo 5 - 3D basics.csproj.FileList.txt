@@ -1,0 +1,7 @@
+obj\x86\Debug\ResolveAssemblyReference.cache
+obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+obj\x86\Debug\XNA_2.__Demo_5___3D_basics.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+bin\x86\Debug\XNA 2.0 Demo 5 - 3D basics.exe
+bin\x86\Debug\XNA 2.0 Demo 5 - 3D basics.pdb
+obj\x86\Debug\XNA 2.0 Demo 5 - 3D basics.exe
+obj\x86\Debug\XNA 2.0 Demo 5 - 3D basics.pdb

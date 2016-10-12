@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>helpbackground.jpg</Source>
+      <Name>helpbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\x86\Debug\Content\helpbackground.xnb</Output>
+      <Time>2007-11-25T20:43:00.5153837-03:00</Time>
+    </Item>
+    <Item>
+      <Source>rockrainenhanced.png</Source>
+      <Name>rockrainenhanced</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\x86\Debug\Content\rockrainenhanced.xnb</Output>
+      <Time>2007-11-25T21:22:46.5643837-03:00</Time>
+    </Item>
+    <Item>
+      <Source>startbackground.jpg</Source>
+      <Name>startbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\x86\Debug\Content\startbackground.xnb</Output>
+      <Time>2007-11-25T20:29:01.3803837-03:00</Time>
+    </Item>
+    <Item>
+      <Source>startSceneElements.png</Source>
+      <Name>startSceneElements</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\x86\Debug\Content\startSceneElements.xnb</Output>
+      <Time>2007-11-15T22:50:56.7722205-03:00</Time>
+    </Item>
+    <Item>
+      <Source>SpaceBackground.dds</Source>
+      <Name>SpaceBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\x86\Debug\Content\SpaceBackground.xnb</Output>
+      <Time>2006-10-30T00:50:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>helpforeground.jpg</Source>
+      <Name>helpforeground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\x86\Debug\Content\helpforeground.xnb</Output>
+      <Time>2007-11-25T21:37:20.5183837-03:00</Time>
+    </Item>
+    <Item>
+      <Source>menuLarge.spritefont</Source>
+      <Name>menuLarge</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\x86\Debug\Content\menuLarge.xnb</Output>
+      <Time>2007-11-15T22:50:56.6242205-03:00</Time>
+    </Item>
+    <Item>
+      <Source>menuSmall.spritefont</Source>
+      <Name>menuSmall</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\x86\Debug\Content\menuSmall.xnb</Output>
+      <Time>2007-11-15T22:50:56.6342205-03:00</Time>
+    </Item>
+    <Item>
+      <Source>score.spritefont</Source>
+      <Name>score</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\x86\Debug\Content\score.xnb</Output>
+      <Time>2007-11-19T20:46:23.2995973-03:00</Time>
+    </Item>
+    <Item>
+      <Source>networkBackground.jpg</Source>
+      <Name>networkBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\x86\Debug\Content\networkBackground.xnb</Output>
+      <Time>2007-11-25T20:29:01.3803837-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <RootDirectory>D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2007-11-28T13:08:00-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2007-11-28T13:08:42-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2007-11-28T13:08:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2007-11-28T13:07:44-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\2.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2007-12-27T14:03:23.119221-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

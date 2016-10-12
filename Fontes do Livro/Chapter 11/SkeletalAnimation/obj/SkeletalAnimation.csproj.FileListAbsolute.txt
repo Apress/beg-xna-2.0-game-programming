@@ -1,0 +1,16 @@
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 11\SkeletalAnimation\bin\x86\Debug\Content\Models\EnemyBeast.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 11\SkeletalAnimation\bin\x86\Debug\Content\Models\PlayerMarine.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 11\SkeletalAnimation\bin\x86\Debug\Content\Effects\AnimatedModel.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 11\SkeletalAnimation\bin\x86\Debug\Content\Textures\EnemyBeastDiffuse.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 11\SkeletalAnimation\bin\x86\Debug\Content\Textures\PlayerMarineDiffuse.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 11\SkeletalAnimation\bin\x86\Debug\Content\Textures\EnemyBeastDiffuse%0.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 11\SkeletalAnimation\bin\x86\Debug\Content\Textures\PlayerMarineDiffuse%0.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 11\SkeletalAnimation\bin\x86\Debug\SkeletalAnimation.exe
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 11\SkeletalAnimation\bin\x86\Debug\SkeletalAnimation.pdb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 11\SkeletalAnimation\bin\x86\Debug\AnimatedModelContentWin.dll
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 11\SkeletalAnimation\bin\x86\Debug\AnimatedModelContentWin.pdb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 11\SkeletalAnimation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 11\SkeletalAnimation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 11\SkeletalAnimation\obj\x86\Debug\SkeletalAnimation.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 11\SkeletalAnimation\obj\x86\Debug\SkeletalAnimation.exe
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 11\SkeletalAnimation\obj\x86\Debug\SkeletalAnimation.pdb

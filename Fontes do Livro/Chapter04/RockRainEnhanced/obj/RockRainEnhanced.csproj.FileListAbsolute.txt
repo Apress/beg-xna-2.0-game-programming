@@ -1,0 +1,19 @@
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Enhanced\RockRainEnhanced\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Enhanced\RockRainEnhanced\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Enhanced\RockRainEnhanced\obj\x86\Debug\RockRainEnhanced.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Enhanced\RockRainEnhanced\bin\x86\Debug\Content\SpaceBackground.xnb
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Enhanced\RockRainEnhanced\bin\x86\Debug\Content\rockrainenhanced.xnb
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Enhanced\RockRainEnhanced\bin\x86\Debug\RockRainEnhanced.exe
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Enhanced\RockRainEnhanced\bin\x86\Debug\RockRainEnhanced.pdb
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Enhanced\RockRainEnhanced\obj\x86\Debug\RockRainEnhanced.exe
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Enhanced\RockRainEnhanced\obj\x86\Debug\RockRainEnhanced.pdb
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Enhanced\RockRainEnhanced\bin\x86\Debug\Content\startbackground.xnb
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Enhanced\RockRainEnhanced\bin\x86\Debug\Content\startSceneElements.xnb
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Enhanced\RockRainEnhanced\bin\x86\Debug\Content\menuLarge.xnb
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Enhanced\RockRainEnhanced\bin\x86\Debug\Content\menuSmall.xnb
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Enhanced\RockRainEnhanced\bin\x86\Debug\Content\score.xnb
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Enhanced\RockRainEnhanced\bin\x86\Debug\Content\audio.xgs
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Enhanced\RockRainEnhanced\bin\x86\Debug\Content\Wave Bank.xwb
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Enhanced\RockRainEnhanced\bin\x86\Debug\Content\Sound Bank.xsb
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Enhanced\RockRainEnhanced\bin\x86\Debug\Content\helpbackground.xnb
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Enhanced\RockRainEnhanced\bin\x86\Debug\Content\helpforeground.xnb

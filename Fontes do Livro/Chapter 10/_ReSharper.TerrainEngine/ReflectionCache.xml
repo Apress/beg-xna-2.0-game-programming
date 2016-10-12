@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Assemblies Version="805306377">
+  <Assembly Name="Microsoft.Xna.Framework, Version=2.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d" Image="262273d9-e856-47cf-a618-90d35da5220e" Timestamp="633318621120000000" XmlDocIndexTimestamp="633318643280000000" />
+  <Assembly Name="Microsoft.Xna.Framework.Content.Pipeline.EffectImporter, Version=2.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d" Image="1cdb83b1-70f9-4f8b-b5ab-08504da2e050" Timestamp="633318628640000000" />
+  <Assembly Name="Microsoft.Xna.Framework.Content.Pipeline.FBXImporter, Version=2.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d" Image="6df0dde4-670b-44c3-b00f-fa418b543601" Timestamp="633318629100000000" />
+  <Assembly Name="Microsoft.Xna.Framework.Content.Pipeline.TextureImporter, Version=2.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d" Image="5091735c-f7ea-4a6e-a13f-daba743f46be" Timestamp="633318629220000000" />
+  <Assembly Name="Microsoft.Xna.Framework.Content.Pipeline.XImporter, Version=2.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d" Image="60761a20-e997-44a0-b7a5-4202478c2ed5" Timestamp="633318628800000000" />
+  <Assembly Name="Microsoft.Xna.Framework.Game, Version=2.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d" Image="5742bf4c-83a6-4a04-ae34-3570e7c65a9f" Timestamp="633318621140000000" XmlDocIndexTimestamp="633318644840000000" />
+</Assemblies>

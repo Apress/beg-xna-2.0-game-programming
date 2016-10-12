@@ -1,0 +1,19 @@
+bin\x86\Debug\Content\helpbackground.xnb
+bin\x86\Debug\Content\rockrainenhanced.xnb
+bin\x86\Debug\Content\startbackground.xnb
+bin\x86\Debug\Content\startSceneElements.xnb
+bin\x86\Debug\Content\SpaceBackground.xnb
+bin\x86\Debug\Content\helpforeground.xnb
+bin\x86\Debug\Content\menuLarge.xnb
+bin\x86\Debug\Content\menuSmall.xnb
+bin\x86\Debug\Content\score.xnb
+bin\x86\Debug\Content\audio.xgs
+bin\x86\Debug\Content\Wave Bank.xwb
+bin\x86\Debug\Content\Sound Bank.xsb
+bin\x86\Debug\RockRainEnhanced.exe
+bin\x86\Debug\RockRainEnhanced.pdb
+obj\x86\Debug\ResolveAssemblyReference.cache
+obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+obj\x86\Debug\RockRainEnhanced.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+obj\x86\Debug\RockRainEnhanced.exe
+obj\x86\Debug\RockRainEnhanced.pdb

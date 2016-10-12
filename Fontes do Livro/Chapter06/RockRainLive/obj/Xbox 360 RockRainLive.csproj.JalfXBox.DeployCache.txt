@@ -1,0 +1,32 @@
+657481329930473eab83aab3c5755331
+JalfXBox
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\Xbox 360\Debug\
+128450467780000000
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\Xbox 360\Debug\RockRainLive.exe
+2008-01-17T12:46:09.7512000Z
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\Xbox 360\Debug\Content\audio.xgs
+2008-01-17T12:31:11.7752000Z
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\Xbox 360\Debug\Content\helpbackground.xnb
+2008-01-17T12:31:01.1312000Z
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\Xbox 360\Debug\Content\helpforeground.xnb
+2008-01-17T12:31:05.3822000Z
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\Xbox 360\Debug\Content\menuLarge.xnb
+2008-01-17T12:31:09.4372000Z
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\Xbox 360\Debug\Content\menuSmall.xnb
+2008-01-17T12:31:09.5892000Z
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\Xbox 360\Debug\Content\networkBackground.xnb
+2008-01-17T12:31:07.1792000Z
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\Xbox 360\Debug\Content\rockrainenhanced.xnb
+2008-01-17T12:31:01.9062000Z
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\Xbox 360\Debug\Content\score.xnb
+2008-01-17T12:31:09.7392000Z
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\Xbox 360\Debug\Content\Sound Bank.xsb
+2008-01-17T12:31:19.2532000Z
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\Xbox 360\Debug\Content\SpaceBackground.xnb
+2008-01-17T12:31:04.9052000Z
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\Xbox 360\Debug\Content\startbackground.xnb
+2008-01-17T12:31:03.9282000Z
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\Xbox 360\Debug\Content\startSceneElements.xnb
+2008-01-17T12:31:04.2722000Z
+D:\Users\Jalf\Documents\XNA Book\Games\RockRain Live\RockRainLive\bin\Xbox 360\Debug\Content\Wave Bank.xwb
+2008-01-17T12:31:19.2512000Z

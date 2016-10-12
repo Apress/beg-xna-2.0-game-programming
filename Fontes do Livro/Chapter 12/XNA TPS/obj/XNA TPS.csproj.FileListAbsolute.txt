@@ -1,0 +1,32 @@
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Effects\AnimatedModel.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Effects\Terrain.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Fonts\BerlinSans.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Models\EnemyBeast.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Models\PlayerMarine.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Models\WeaponMachineGun.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Models\Skydome.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\alphaMap.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\rockbump.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\Skydome.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\EnemyBeastDiffuse.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\PlayerMarineDiffuse.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\Terrain1.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\Terrain2.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\Terrain3.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\Terrain4.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\WeaponMachineGunDiffuse.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\weaponTarget.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\EnemyBeastDiffuse%0.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\PlayerMarineDiffuse%0.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\WeaponMachineGunDiffuse%0.xnb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Settings\GameSettings.xml
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Terrains\Terrain1.raw
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\XNA TPS.exe
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\XNA TPS.pdb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\AnimatedModelContentWin.dll
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\AnimatedModelContentWin.pdb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\obj\x86\Debug\XNA_TPS.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\obj\x86\Debug\XNA TPS.exe
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\obj\x86\Debug\XNA TPS.pdb

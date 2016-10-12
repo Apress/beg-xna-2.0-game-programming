@@ -1,0 +1,20 @@
+obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+obj\Xbox 360\Debug\RockRainLive.obj.Xbox_360.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+bin\Xbox 360\Debug\Content\helpbackground.xnb
+bin\Xbox 360\Debug\Content\rockrainenhanced.xnb
+bin\Xbox 360\Debug\Content\startbackground.xnb
+bin\Xbox 360\Debug\Content\startSceneElements.xnb
+bin\Xbox 360\Debug\Content\SpaceBackground.xnb
+bin\Xbox 360\Debug\Content\helpforeground.xnb
+bin\Xbox 360\Debug\Content\networkBackground.xnb
+bin\Xbox 360\Debug\Content\menuLarge.xnb
+bin\Xbox 360\Debug\Content\menuSmall.xnb
+bin\Xbox 360\Debug\Content\score.xnb
+bin\Xbox 360\Debug\Content\audio.xgs
+bin\Xbox 360\Debug\Content\Wave Bank.xwb
+bin\Xbox 360\Debug\Content\Sound Bank.xsb
+bin\Xbox 360\Debug\RockRainLive.exe
+bin\Xbox 360\Debug\RockRainLive.pdb
+obj\Xbox 360\Debug\RockRainLive.exe
+obj\Xbox 360\Debug\RockRainLive.pdb

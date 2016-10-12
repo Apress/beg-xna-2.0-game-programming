@@ -1,0 +1,7 @@
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 9\BasicFramework\bin\x86\Debug\BasicFramework.exe
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 9\BasicFramework\bin\x86\Debug\BasicFramework.pdb
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 9\BasicFramework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 9\BasicFramework\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 9\BasicFramework\obj\x86\Debug\BasicFramework.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 9\BasicFramework\obj\x86\Debug\BasicFramework.exe
+C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 9\BasicFramework\obj\x86\Debug\BasicFramework.pdb

@@ -1,0 +1,8 @@
+bin\x86\Debug\XNADemo.exe
+bin\x86\Debug\XNADemo.pdb
+obj\x86\Debug\ResolveAssemblyReference.cache
+obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+obj\x86\Debug\XNADemo.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+obj\x86\Debug\XNADemo.exe
+obj\x86\Debug\XNADemo.pdb
+bin\x86\Debug\Content\xna_thumbnail.xnb

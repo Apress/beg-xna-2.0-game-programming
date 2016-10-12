@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Effects\AnimatedModel.fx</Source>
+      <Name>Effects\AnimatedModel</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Effects\AnimatedModel.xnb</Output>
+      <Time>2008-03-23T21:25:30-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Terrain.fx</Source>
+      <Name>Effects\Terrain</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Effects\Terrain.xnb</Output>
+      <Time>2008-02-12T17:49:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\BerlinSans.spritefont</Source>
+      <Name>Fonts\BerlinSans</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Fonts\BerlinSans.xnb</Output>
+      <Time>2007-11-26T14:59:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\EnemyBeast.fbx</Source>
+      <Name>Models\EnemyBeast</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimatedModelProcessor</Processor>
+      <Parameters>
+        <Data Key="RotationY">180</Data>
+        <Data Key="Scale">2</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Models\EnemyBeast.xnb</Output>
+      <Time>2008-02-19T15:02:18-03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\EnemyBeast%0.xml</Key>
+        <Value>2008-04-04T12:08:24.4241667-03:00</Value>
+      </Dependency>
+      <Request>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\EnemyBeastDiffuse%0.xnb</Request>
+      <Request>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Effects\AnimatedModel.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\PlayerMarine.fbx</Source>
+      <Name>Models\PlayerMarine</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimatedModelProcessor</Processor>
+      <Parameters>
+        <Data Key="RotationY">180</Data>
+        <Data Key="Scale">4</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Models\PlayerMarine.xnb</Output>
+      <Time>2008-03-29T01:52:56-03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\PlayerMarine%0.xml</Key>
+        <Value>2008-04-04T12:08:53.2981667-03:00</Value>
+      </Dependency>
+      <Request>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\PlayerMarineDiffuse%0.xnb</Request>
+      <Request>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Effects\AnimatedModel.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\WeaponMachineGun.fbx</Source>
+      <Name>Models\WeaponMachineGun</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimatedModelProcessor</Processor>
+      <Parameters>
+        <Data Key="RotationY">180</Data>
+        <Data Key="Scale">4</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Models\WeaponMachineGun.xnb</Output>
+      <Time>2007-11-26T15:00:12-03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\WeaponMachineGun%0.xml</Key>
+        <Value>2008-04-04T12:08:57.3951667-03:00</Value>
+      </Dependency>
+      <Request>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\WeaponMachineGunDiffuse%0.xnb</Request>
+      <Request>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Effects\AnimatedModel.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Skydome.x</Source>
+      <Name>Models\Skydome</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">1600</Data>
+        <Data Key="RotationX">-90</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Models\Skydome.xnb</Output>
+      <Time>2007-11-26T15:00:12-03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Skydome%0.xml</Key>
+        <Value>2008-04-04T12:08:59.2551667-03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Textures\alphaMap.tga</Source>
+      <Name>Textures\alphaMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\alphaMap.xnb</Output>
+      <Time>2007-11-26T15:00:40-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\rockbump.dds</Source>
+      <Name>Textures\rockbump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\rockbump.xnb</Output>
+      <Time>2007-11-26T15:00:40-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skydome.tga</Source>
+      <Name>Textures\Skydome</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\Skydome.xnb</Output>
+      <Time>2007-11-26T15:00:40-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\EnemyBeastDiffuse.jpg</Source>
+      <Name>Textures\EnemyBeastDiffuse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\EnemyBeastDiffuse.xnb</Output>
+      <Time>2007-11-26T15:00:40-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PlayerMarineDiffuse.jpg</Source>
+      <Name>Textures\PlayerMarineDiffuse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\PlayerMarineDiffuse.xnb</Output>
+      <Time>2008-03-23T23:04:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Terrain1.png</Source>
+      <Name>Textures\Terrain1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\Terrain1.xnb</Output>
+      <Time>2008-02-12T17:56:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Terrain2.png</Source>
+      <Name>Textures\Terrain2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\Terrain2.xnb</Output>
+      <Time>2007-11-26T15:00:40-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Terrain3.png</Source>
+      <Name>Textures\Terrain3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\Terrain3.xnb</Output>
+      <Time>2007-11-26T15:00:40-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Terrain4.png</Source>
+      <Name>Textures\Terrain4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\Terrain4.xnb</Output>
+      <Time>2007-11-26T15:00:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\WeaponMachineGunDiffuse.jpg</Source>
+      <Name>Textures\WeaponMachineGunDiffuse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\WeaponMachineGunDiffuse.xnb</Output>
+      <Time>2007-11-26T15:00:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\weaponTarget.png</Source>
+      <Name>Textures\weaponTarget</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\weaponTarget.xnb</Output>
+      <Time>2008-03-09T15:01:50-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\EnemyBeast.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\EnemyBeast%0.xml</Output>
+      <Time>2008-02-19T15:02:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\EnemyBeastDiffuse.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\EnemyBeastDiffuse%0.xnb</Output>
+      <Time>2007-11-26T15:00:40-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\PlayerMarine.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\PlayerMarine%0.xml</Output>
+      <Time>2008-03-29T01:52:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PlayerMarineDiffuse.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\PlayerMarineDiffuse%0.xnb</Output>
+      <Time>2008-03-23T23:04:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\WeaponMachineGun.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\WeaponMachineGun%0.xml</Output>
+      <Time>2007-11-26T15:00:12-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\WeaponMachineGunDiffuse.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\Textures\WeaponMachineGunDiffuse%0.xnb</Output>
+      <Time>2007-11-26T15:00:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Skydome.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Skydome%0.xml</Output>
+      <Time>2007-11-26T15:00:12-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <RootDirectory>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\XNA TPS\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2007-11-28T13:08:00-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2007-11-28T13:08:42-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2007-11-28T13:08:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2007-11-28T13:07:44-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\jalf\Desktop\Fontes do Livro\Book Code\Book Code\Chapter 12\AnimatedModelProcessorWin\bin\x86\Debug\AnimatedModelProcessorWin.dll</Key>
+        <Value>2008-03-29T01:59:46-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\2.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2007-12-27T14:03:23.119221-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,8 @@
+C:\Documents and Settings\deinf.lobao\Meus documentos\Produtos\Livros\XNA Book\XNA Book\CH 05 - network\XNADemo 2.0 Demo - Net\XNADemo 2.0 Demo - Net\bin\x86\Debug\Content\Arial.xnb
+C:\Documents and Settings\deinf.lobao\Meus documentos\Produtos\Livros\XNA Book\XNA Book\CH 05 - network\XNADemo 2.0 Demo - Net\XNADemo 2.0 Demo - Net\bin\x86\Debug\XNADemo 2.0 Demo - Net.exe
+C:\Documents and Settings\deinf.lobao\Meus documentos\Produtos\Livros\XNA Book\XNA Book\CH 05 - network\XNADemo 2.0 Demo - Net\XNADemo 2.0 Demo - Net\bin\x86\Debug\XNADemo 2.0 Demo - Net.pdb
+C:\Documents and Settings\deinf.lobao\Meus documentos\Produtos\Livros\XNA Book\XNA Book\CH 05 - network\XNADemo 2.0 Demo - Net\XNADemo 2.0 Demo - Net\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\deinf.lobao\Meus documentos\Produtos\Livros\XNA Book\XNA Book\CH 05 - network\XNADemo 2.0 Demo - Net\XNADemo 2.0 Demo - Net\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\deinf.lobao\Meus documentos\Produtos\Livros\XNA Book\XNA Book\CH 05 - network\XNADemo 2.0 Demo - Net\XNADemo 2.0 Demo - Net\obj\x86\Debug\XNADemo_2.__Demo___Net.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\deinf.lobao\Meus documentos\Produtos\Livros\XNA Book\XNA Book\CH 05 - network\XNADemo 2.0 Demo - Net\XNADemo 2.0 Demo - Net\obj\x86\Debug\XNADemo 2.0 Demo - Net.exe
+C:\Documents and Settings\deinf.lobao\Meus documentos\Produtos\Livros\XNA Book\XNA Book\CH 05 - network\XNADemo 2.0 Demo - Net\XNADemo 2.0 Demo - Net\obj\x86\Debug\XNADemo 2.0 Demo - Net.pdb

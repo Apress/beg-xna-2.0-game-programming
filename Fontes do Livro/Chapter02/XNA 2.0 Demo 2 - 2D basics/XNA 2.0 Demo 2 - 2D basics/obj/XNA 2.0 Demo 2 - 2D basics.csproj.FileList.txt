@@ -1,0 +1,8 @@
+bin\x86\Debug\Content\xna_thumbnail.xnb
+bin\x86\Debug\XNA 2.0 Demo - 2D basics.exe
+bin\x86\Debug\XNA 2.0 Demo - 2D basics.pdb
+obj\x86\Debug\ResolveAssemblyReference.cache
+obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+obj\x86\Debug\XNA_2.__Demo___2D_basics.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+obj\x86\Debug\XNA 2.0 Demo - 2D basics.exe
+obj\x86\Debug\XNA 2.0 Demo - 2D basics.pdb
